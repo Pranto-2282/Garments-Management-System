@@ -1,0 +1,74 @@
+c:\users\nihal\documents\visual studio 2015\Projects\Garment_Management_System\Garment_Management_System\bin\Debug\Garment_Management_System.exe.config
+c:\users\nihal\documents\visual studio 2015\Projects\Garment_Management_System\Garment_Management_System\bin\Debug\Garment_Management_System.exe
+c:\users\nihal\documents\visual studio 2015\Projects\Garment_Management_System\Garment_Management_System\bin\Debug\Garment_Management_System.pdb
+c:\users\nihal\documents\visual studio 2015\Projects\Garment_Management_System\Garment_Management_System\obj\Debug\Garment_Management_System.csprojResolveAssemblyReference.cache
+c:\users\nihal\documents\visual studio 2015\Projects\Garment_Management_System\Garment_Management_System\obj\Debug\Garment_Management_System.Login.resources
+c:\users\nihal\documents\visual studio 2015\Projects\Garment_Management_System\Garment_Management_System\obj\Debug\Garment_Management_System.Properties.Resources.resources
+c:\users\nihal\documents\visual studio 2015\Projects\Garment_Management_System\Garment_Management_System\obj\Debug\Garment_Management_System.csproj.GenerateResource.Cache
+c:\users\nihal\documents\visual studio 2015\Projects\Garment_Management_System\Garment_Management_System\obj\Debug\Garment_Management_System.exe
+c:\users\nihal\documents\visual studio 2015\Projects\Garment_Management_System\Garment_Management_System\obj\Debug\Garment_Management_System.pdb
+C:\Users\Nihal\documents\visual studio 2015\Projects\Garment_Management_System\Garment_Management_System\bin\Debug\Database1.mdf
+C:\Users\Nihal\documents\visual studio 2015\Projects\Garment_Management_System\Garment_Management_System\bin\Debug\Database1_log.ldf
+C:\Users\Nihal\documents\visual studio 2015\Projects\Garment_Management_System\Garment_Management_System\obj\Debug\Garment_Management_System.Home.resources
+C:\Users\Nihal\documents\visual studio 2015\Projects\Garment_Management_System\Garment_Management_System\obj\Debug\Garment_Management_System.EmployeeClass.resources
+C:\Users\Nihal\documents\visual studio 2015\Projects\Garment_Management_System\Garment_Management_System\obj\Debug\Garment_Management_System.Add_Employee.resources
+C:\Users\Nihal\documents\visual studio 2015\Projects\Garment_Management_System\Garment_Management_System\obj\Debug\Garment_Management_System.ClientClass.resources
+C:\Users\Nihal\documents\visual studio 2015\Projects\Garment_Management_System\Garment_Management_System\obj\Debug\Garment_Management_System.Add_Client.resources
+C:\Users\Nihal\documents\visual studio 2015\Projects\Garment_Management_System\Garment_Management_System\obj\Debug\Garment_Management_System.InventoryClass.resources
+C:\Users\Nihal\documents\visual studio 2015\Projects\Garment_Management_System\Garment_Management_System\obj\Debug\Garment_Management_System.Add_Inventory.resources
+C:\Users\Nihal\documents\visual studio 2015\Projects\Garment_Management_System\Garment_Management_System\obj\Debug\Garment_Management_System.YearlyIncomeClass.resources
+C:\Users\Nihal\documents\visual studio 2015\Projects\Garment_Management_System\Garment_Management_System\obj\Debug\Garment_Management_System.NoticeClass.resources
+C:\Users\Nihal\documents\visual studio 2015\Projects\Garment_Management_System\Garment_Management_System\obj\Debug\Garment_Management_System.CurrentOrderClass.resources
+C:\Users\Nihal\documents\visual studio 2015\Projects\Garment_Management_System\Garment_Management_System\obj\Debug\Garment_Management_System.Buyer_Details.resources
+C:\Users\Nihal\documents\visual studio 2015\Projects\Garment_Management_System\Garment_Management_System\obj\Debug\Garment_Management_System.Add_Order.resources
+C:\Users\Nihal\documents\visual studio 2015\Projects\Garment_Management_System\Garment_Management_System\obj\Debug\Garment_Management_System.Monthlt_Activity_Class.resources
+C:\Users\Asus\Downloads\Compressed\Garment-Management-System-master\Garment-Management-System-master\Garment_Management_System\bin\Debug\Database1.mdf
+C:\Users\Asus\Downloads\Compressed\Garment-Management-System-master\Garment-Management-System-master\Garment_Management_System\bin\Debug\Database1_log.ldf
+C:\Users\Asus\Downloads\Compressed\Garment-Management-System-master\Garment-Management-System-master\Garment_Management_System\bin\Debug\Garment_Management_System.exe.config
+C:\Users\Asus\Downloads\Compressed\Garment-Management-System-master\Garment-Management-System-master\Garment_Management_System\bin\Debug\Garment_Management_System.exe
+C:\Users\Asus\Downloads\Compressed\Garment-Management-System-master\Garment-Management-System-master\Garment_Management_System\bin\Debug\Garment_Management_System.pdb
+C:\Users\Asus\Downloads\Compressed\Garment-Management-System-master\Garment-Management-System-master\Garment_Management_System\obj\Debug\Garment_Management_System.csprojAssemblyReference.cache
+C:\Users\Asus\Downloads\Compressed\Garment-Management-System-master\Garment-Management-System-master\Garment_Management_System\obj\Debug\Garment_Management_System.Add_Order.resources
+C:\Users\Asus\Downloads\Compressed\Garment-Management-System-master\Garment-Management-System-master\Garment_Management_System\obj\Debug\Garment_Management_System.Buyer_Details.resources
+C:\Users\Asus\Downloads\Compressed\Garment-Management-System-master\Garment-Management-System-master\Garment_Management_System\obj\Debug\Garment_Management_System.CurrentOrderClass.resources
+C:\Users\Asus\Downloads\Compressed\Garment-Management-System-master\Garment-Management-System-master\Garment_Management_System\obj\Debug\Garment_Management_System.Monthlt_Activity_Class.resources
+C:\Users\Asus\Downloads\Compressed\Garment-Management-System-master\Garment-Management-System-master\Garment_Management_System\obj\Debug\Garment_Management_System.NoticeClass.resources
+C:\Users\Asus\Downloads\Compressed\Garment-Management-System-master\Garment-Management-System-master\Garment_Management_System\obj\Debug\Garment_Management_System.YearlyIncomeClass.resources
+C:\Users\Asus\Downloads\Compressed\Garment-Management-System-master\Garment-Management-System-master\Garment_Management_System\obj\Debug\Garment_Management_System.Add_Client.resources
+C:\Users\Asus\Downloads\Compressed\Garment-Management-System-master\Garment-Management-System-master\Garment_Management_System\obj\Debug\Garment_Management_System.Add_Employee.resources
+C:\Users\Asus\Downloads\Compressed\Garment-Management-System-master\Garment-Management-System-master\Garment_Management_System\obj\Debug\Garment_Management_System.Add_Inventory.resources
+C:\Users\Asus\Downloads\Compressed\Garment-Management-System-master\Garment-Management-System-master\Garment_Management_System\obj\Debug\Garment_Management_System.ClientClass.resources
+C:\Users\Asus\Downloads\Compressed\Garment-Management-System-master\Garment-Management-System-master\Garment_Management_System\obj\Debug\Garment_Management_System.EmployeeClass.resources
+C:\Users\Asus\Downloads\Compressed\Garment-Management-System-master\Garment-Management-System-master\Garment_Management_System\obj\Debug\Garment_Management_System.InventoryClass.resources
+C:\Users\Asus\Downloads\Compressed\Garment-Management-System-master\Garment-Management-System-master\Garment_Management_System\obj\Debug\Garment_Management_System.Login.resources
+C:\Users\Asus\Downloads\Compressed\Garment-Management-System-master\Garment-Management-System-master\Garment_Management_System\obj\Debug\Garment_Management_System.Home.resources
+C:\Users\Asus\Downloads\Compressed\Garment-Management-System-master\Garment-Management-System-master\Garment_Management_System\obj\Debug\Garment_Management_System.Properties.Resources.resources
+C:\Users\Asus\Downloads\Compressed\Garment-Management-System-master\Garment-Management-System-master\Garment_Management_System\obj\Debug\Garment_Management_System.csproj.GenerateResource.cache
+C:\Users\Asus\Downloads\Compressed\Garment-Management-System-master\Garment-Management-System-master\Garment_Management_System\obj\Debug\Garment_Management_System.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Downloads\Compressed\Garment-Management-System-master\Garment-Management-System-master\Garment_Management_System\obj\Debug\Garment_Management_System.exe
+C:\Users\Asus\Downloads\Compressed\Garment-Management-System-master\Garment-Management-System-master\Garment_Management_System\obj\Debug\Garment_Management_System.pdb
+E:\Garment-Management-System\Garment_Management_System\bin\Debug\Database1.mdf
+E:\Garment-Management-System\Garment_Management_System\bin\Debug\Database1_log.ldf
+E:\Garment-Management-System\Garment_Management_System\bin\Debug\Garment_Management_System.exe.config
+E:\Garment-Management-System\Garment_Management_System\bin\Debug\Garment_Management_System.exe
+E:\Garment-Management-System\Garment_Management_System\bin\Debug\Garment_Management_System.pdb
+E:\Garment-Management-System\Garment_Management_System\obj\Debug\Garment_Management_System.Add_Order.resources
+E:\Garment-Management-System\Garment_Management_System\obj\Debug\Garment_Management_System.Buyer_Details.resources
+E:\Garment-Management-System\Garment_Management_System\obj\Debug\Garment_Management_System.CurrentOrderClass.resources
+E:\Garment-Management-System\Garment_Management_System\obj\Debug\Garment_Management_System.Monthlt_Activity_Class.resources
+E:\Garment-Management-System\Garment_Management_System\obj\Debug\Garment_Management_System.NoticeClass.resources
+E:\Garment-Management-System\Garment_Management_System\obj\Debug\Garment_Management_System.YearlyIncomeClass.resources
+E:\Garment-Management-System\Garment_Management_System\obj\Debug\Garment_Management_System.Add_Client.resources
+E:\Garment-Management-System\Garment_Management_System\obj\Debug\Garment_Management_System.Add_Employee.resources
+E:\Garment-Management-System\Garment_Management_System\obj\Debug\Garment_Management_System.Add_Inventory.resources
+E:\Garment-Management-System\Garment_Management_System\obj\Debug\Garment_Management_System.ClientClass.resources
+E:\Garment-Management-System\Garment_Management_System\obj\Debug\Garment_Management_System.EmployeeClass.resources
+E:\Garment-Management-System\Garment_Management_System\obj\Debug\Garment_Management_System.InventoryClass.resources
+E:\Garment-Management-System\Garment_Management_System\obj\Debug\Garment_Management_System.Login.resources
+E:\Garment-Management-System\Garment_Management_System\obj\Debug\Garment_Management_System.Home.resources
+E:\Garment-Management-System\Garment_Management_System\obj\Debug\Garment_Management_System.Properties.Resources.resources
+E:\Garment-Management-System\Garment_Management_System\obj\Debug\Garment_Management_System.csproj.GenerateResource.cache
+E:\Garment-Management-System\Garment_Management_System\obj\Debug\Garment_Management_System.csproj.CoreCompileInputs.cache
+E:\Garment-Management-System\Garment_Management_System\obj\Debug\Garment_Management_System.exe
+E:\Garment-Management-System\Garment_Management_System\obj\Debug\Garment_Management_System.pdb
+E:\Garment-Management-System\Garment_Management_System\obj\Debug\Garment_Management_System.csprojAssemblyReference.cache

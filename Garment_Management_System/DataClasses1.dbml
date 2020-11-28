@@ -1,0 +1,80 @@
+﻿<?xml version="1.0" encoding="utf-8"?><Database Name="Database1" Class="DataClasses1DataContext" xmlns="http://schemas.microsoft.com/linqtosql/dbml/2007">
+  <Connection Mode="AppSettings" ConnectionString="Data Source=(LocalDB)\MSSQLLocalDB;AttachDbFilename=|DataDirectory|\Database1.mdf;Integrated Security=True;Connect Timeout=30" SettingsObjectName="Garment_Management_System.Properties.Settings" SettingsPropertyName="Database1ConnectionString" Provider="System.Data.SqlClient" />
+  <Table Name="dbo.Employee" Member="Employees">
+    <Type Name="Employee">
+      <Column Name="Id" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="full_name" Type="System.String" DbType="VarChar(50)" CanBeNull="true" />
+      <Column Name="image" Type="System.String" DbType="VarChar(150)" CanBeNull="true" />
+      <Column Name="position" Type="System.String" DbType="VarChar(50)" CanBeNull="true" />
+      <Column Name="email" Type="System.String" DbType="VarChar(50)" CanBeNull="true" />
+      <Column Name="dob" Type="System.String" DbType="VarChar(50)" CanBeNull="true" />
+      <Column Name="mobile_no" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="address" Type="System.String" DbType="VarChar(50)" CanBeNull="true" />
+      <Column Name="blood_group" Type="System.String" DbType="VarChar(50)" CanBeNull="true" />
+      <Column Name="sallery" Type="System.Double" DbType="Float" CanBeNull="true" />
+    </Type>
+  </Table>
+  <Table Name="dbo.Clients" Member="Clients">
+    <Type Name="Client">
+      <Column Name="id" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="buyer_name" Type="System.String" DbType="VarChar(150)" CanBeNull="true" />
+      <Column Name="company" Type="System.String" DbType="VarChar(50)" CanBeNull="true" />
+      <Column Name="image" Type="System.String" DbType="VarChar(150)" CanBeNull="true" />
+      <Column Name="country" Type="System.String" DbType="VarChar(150)" CanBeNull="true" />
+      <Column Name="address" Type="System.String" DbType="VarChar(150)" CanBeNull="true" />
+      <Column Name="mobile_no" Type="System.String" DbType="VarChar(150)" CanBeNull="true" />
+      <Column Name="skype" Type="System.String" DbType="VarChar(150)" CanBeNull="true" />
+      <Column Name="email" Type="System.String" DbType="VarChar(150)" CanBeNull="true" />
+    </Type>
+  </Table>
+  <Table Name="dbo.Inventory" Member="Inventories">
+    <Type Name="Inventory">
+      <Column Name="Id" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="product_name" Type="System.String" DbType="VarChar(50)" CanBeNull="true" />
+      <Column Name="price_perUunit" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="amount_inStock" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="total_costStock" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="amount_needed" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="total_costNeeded" Type="System.Int32" DbType="Int" CanBeNull="true" />
+    </Type>
+  </Table>
+  <Table Name="dbo.YearlyIncome" Member="YearlyIncomes">
+    <Type Name="YearlyIncome">
+      <Column Name="Id" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="year" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="income" Type="System.Double" DbType="Float" CanBeNull="true" />
+    </Type>
+  </Table>
+  <Table Name="dbo.CreateAccount" Member="CreateAccounts">
+    <Type Name="CreateAccount">
+      <Column Name="Id" Type="System.String" DbType="VarChar(150) NOT NULL" IsPrimaryKey="true" CanBeNull="false" />
+      <Column Name="first_name" Type="System.String" DbType="VarChar(150)" CanBeNull="true" />
+      <Column Name="last_name" Type="System.String" DbType="VarChar(150)" CanBeNull="true" />
+      <Column Name="password" Type="System.String" DbType="VarChar(150)" CanBeNull="true" />
+      <Column Name="email" Type="System.String" DbType="VarChar(150)" CanBeNull="true" />
+      <Column Name="mobile_no" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="image" Type="System.String" DbType="VarChar(150)" CanBeNull="true" />
+      <Column Name="position" Type="System.String" DbType="VarChar(150)" CanBeNull="true" />
+    </Type>
+  </Table>
+  <Table Name="dbo.Notice" Member="Notices">
+    <Type Name="Notice">
+      <Column Name="Id" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="[Posted By]" Member="Posted_By" Type="System.String" DbType="VarChar(150)" CanBeNull="true" />
+      <Column Name="Message" Type="System.String" DbType="VarChar(250)" CanBeNull="true" />
+      <Column Name="Date" Type="System.String" DbType="VarChar(150)" CanBeNull="true" />
+    </Type>
+  </Table>
+  <Table Name="dbo.CurrentOrders" Member="CurrentOrders">
+    <Type Name="CurrentOrder">
+      <Column Name="Id" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="client" Type="System.String" DbType="VarChar(50)" CanBeNull="true" />
+      <Column Name="order_name" Type="System.String" DbType="VarChar(50)" CanBeNull="true" />
+      <Column Name="sample" Type="System.String" DbType="VarChar(250)" CanBeNull="true" />
+      <Column Name="quantity" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="shipment_date" Type="System.String" DbType="VarChar(50)" CanBeNull="true" />
+      <Column Name="estimated_cost" Type="System.Double" DbType="Float" CanBeNull="true" />
+      <Column Name="buyer_pays" Type="System.Double" DbType="Float" CanBeNull="true" />
+    </Type>
+  </Table>
+</Database>
